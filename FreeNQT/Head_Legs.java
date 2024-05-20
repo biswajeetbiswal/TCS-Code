@@ -14,6 +14,6 @@ class Head_Legs {
             }
         }
         System.out.println("Total no. of 2 legs animal " + i + " Total no. of 4 legs animal " + (N - i));
-
+        sc.close();
     }
 }
